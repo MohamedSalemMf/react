@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');/*ده علشان الخط */
+
+body{
+  color: #fff !important;
+  font-family: 'Montserrat Alternates', sans-serif !important;
+  background-color: #000 !important;
+  overflow-x:hidden;
+}
+.brbr{
+	height: 1px;
+	background-color: #17a1b73d;
+
+}
+
+.vote{
+  box-shadow: 0 0 5px #24baef,
+  0 0 5px #24baef;
+  background-color: #17a1b73d;
+  padding: 10px;
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  z-index: 1;
+}
+.navColor{
+margin: auto;
+              border-bottom: solid 1px #17a1b73d;
+              border-radius: 5px;
+}
+.bottonNav{
+  font-size: 40px;
+
+  
+ }
+ .bottonNav span{
+   color: #17a1b7; 
+ }
+ 
+.navHMTO{
+  font-size: 25px;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+.digital-ocean{
+  font-size: 40px;
+  color: #17a1b73d !important;
+}
+
+.navHMT{
+  color: #fff !important;
+ 
+  
+}
+
+.movie{
+  cursor:pointer;
+  box-shadow: 0 0 5px #17a1b73d,
+  0 0 5px #17a1b73d;
+}
+
+.scar{
+  font-weight: 900 !important;
+}
+/*Searsh==============================================================================*/
+.indotSearsh{ 
+  background-color: #000 !important;
+ 
+  border: 1px solid #000;
+
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 800;
+  box-shadow: 0 0 10px #17a1b73d,
+              0 0 10px #17a1b73d;
+			  border-bottom: 1px solid #17a1b73d;
+			  transition:	all 2s;
+}
+
+/* Register ============================*/
+.formRegister{
+	position: relative;
+	top: 30px;
+	left: 0px;
+ 
+}
+
+.pReady{
+  font-weight: 600 !important;
+  
+}
+
+
+.Sign{
+  text-decoration:none !important;
+
+}
+.position{
+  position: absolute;
+  right: 10%;
+  top: 15px;
+}
+
+
+/*video====================*/
+.layer{
+	background-color: rgba(0,0,0,0.7);
+	width: 100%;
+	height: 100vh;
+}
+
+
+
+.videoMonster{
+	top: 0%;
+	left: 0%;
+	bottom: 0%;
+	right: 0%;
+	object-fit: cover ;
+	width: 100%;
+	height: 100vh;
+	z-index: -1;
+
+}
+
+/*Register ================================*/
+.slideRegister{
+	background-image: url('../src/img/mov.jpg');
+	background-size:cover;
+	background-position:center center;
+	background-attachment:fixed;
+	height:100vh;
+  	
+    
+}
+.layeRegister{
+	background-color: rgba(0,0,0,0.7);
+	height: 100%;
+}

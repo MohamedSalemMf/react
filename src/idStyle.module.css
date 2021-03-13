@@ -1,0 +1,18 @@
+
+.vote{
+    box-shadow: 0 0 5px #33ffff,
+    0 0 5px #66ffff;
+    background-color: #141722;
+    padding: 10px;
+    position: absolute;
+    top: -10px;
+    left:0px;
+    z-index: 1;
+}
+
+.imgs{
+    box-shadow: 0 0 5px #fff,
+    0 0 5px #000;
+}
+
+
